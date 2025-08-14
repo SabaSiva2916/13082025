@@ -16,4 +16,9 @@ public class SingletonConcept {
 		return singeton;
 
 	}
+
+	public void test() {
+		System.out.println("Sample Test class for execution");
+
+	}
 }
